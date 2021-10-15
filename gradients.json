@@ -1532,5 +1532,13 @@
     {
         "name": "Visual Blue",
         "colors": ["#003d4d", "#00c996"]
+    },
+    {
+      "name": "Fortune Baby",
+      "colors": ["#bdfee9", "#ecbdff", "#510292"]
+    },
+    {
+      "name": "Fortune Baby remix",
+      "colors": ["#510292", "#ecbdff", "#bdfee9"]
     }
 ]
